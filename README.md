@@ -1,4 +1,4 @@
-![deb](https://github.com/Ssobol7/Debian-12-Xfce-My-Config/assets/135639288/ff4cb72e-08b0-4ce3-9ef2-8562c3365846) 
+![debian12-090822670](https://github.com/user-attachments/assets/2e792f9b-8d3d-4375-98ac-4a4b0ef351d2)
 
 # **Installation and Configuration Guide for Server and Workstation**
 
