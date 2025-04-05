@@ -1,6 +1,6 @@
 ![debian12-090822670](https://github.com/user-attachments/assets/2e792f9b-8d3d-4375-98ac-4a4b0ef351d2)
 
-# **Installation and Configuration Guide for Server and Workstation**
+# **Installation and Custom Configuration User Manual for Server and Workstation on Debian 12.x**
 
 
 ### Debian 12 "Bookworm" with Xfce: Configuration Journey**
